@@ -83,27 +83,27 @@ export const environment = {
 
 The E-commerce Frontend connects with the following microservices:
 
-- **[E-commerce API Gateway](**https://github.com/juansebstt/ecommerce-api-gateway**)**:
+- **[E-commerce API Gateway](https://github.com/juansebstt/ecommerce-api-gateway)**:
   - All requests from the frontend are routed through the API Gateway, which forwards them to the appropriate microservices.
-- **[E-commerce Auth Service](**https://github.com/juansebstt/ecommerce-auth-service**)**:
+- **[E-commerce Auth Service](https://github.com/juansebstt/ecommerce-auth-service)**:
   - Manages user authentication and authorization, providing JWT tokens for secure access.
-- **[E-commerce Payment Service](**https://github.com/juansebstt/ecommerce-payment-service**):**
+- **[E-commerce Payment Service](https://github.com/juansebstt/ecommerce-payment-service):**
   - Handles payment processing when users make purchases.
-- **[E-commerce Product Service](**https://github.com/juansebstt/ecommerce-product-service**)**:
+- **[E-commerce Product Service](https://github.com/juansebstt/ecommerce-product-service)**:
   - Retrieves product details and availability for display in the frontend.
-- **[E-commerce Cart Service](**https://github.com/juansebstt/ecommerce-cart-service**)**:
+- **[E-commerce Cart Service](https://github.com/juansebstt/ecommerce-cart-service)**:
   - Manages users' shopping cart sessions and updates.
-- **[E-commerce Order Service](**https://github.com/juansebstt/ecommerce-order-service**)**:
+- **[E-commerce Order Service](https://github.com/juansebstt/ecommerce-order-service)**:
   - Handles order creation and management after checkout.
-- **[E-commerce User Service](**https://github.com/juansebstt/ecommerce-user-service**)**:
+- **[E-commerce User Service](https://github.com/juansebstt/ecommerce-user-service)**:
   - Manages user profiles and account information.
-- **[E-commerce Notification Service](**https://github.com/juansebstt/ecommerce-notification-service**)**:
+- **[E-commerce Notification Service](https://github.com/juansebstt/ecommerce-notification-service)**:
   - Sends notifications and updates to users regarding their orders and account activities.
-- **[E-commerce Catalog Service](**https://github.com/juansebstt/ecommerce-catalog-service**)**:
+- **[E-commerce Catalog Service](https://github.com/juansebstt/ecommerce-catalog-service)**:
   - Provides detailed product information and availability.
-- **[E-commerce Common Service](**https://github.com/juansebstt/ecommerce-common-service**)**:
+- **[E-commerce Common Service](https://github.com/juansebstt/ecommerce-common-service)**:
   - Shares common utilities and components used across different services.
-- **[E-commerce Contact Service](**https://github.com/juansebstt/ecommerce-contact-service**)**:
+- **[E-commerce Contact Service](https://github.com/juansebstt/ecommerce-contact-service)**:
   - Manages customer support inquiries and communication.
 
 ## Usage
